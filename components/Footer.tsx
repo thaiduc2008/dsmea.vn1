@@ -14,7 +14,7 @@ export default function Footer() {
           />
           <div className="text-center space-y-2">
             <p className="text-base font-semibold text-gray-800">
-              CÔNG TY CỔ PHẦN VINA ĐẠI PHƯỚC SWANCITY ONE MEA
+              CÔNG TY CỔ PHẦN ĐẠI PHƯỚC SWANCITY ONE MEA
             </p>
             <p className="text-sm text-gray-600 italic">
               (DAI PHUOC SWANCITY ONE MEA JSC.)
